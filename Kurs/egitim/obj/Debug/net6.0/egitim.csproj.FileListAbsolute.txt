@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\bin\Debug\net6.0\egitim.exe
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\bin\Debug\net6.0\egitim.deps.json
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\bin\Debug\net6.0\egitim.runtimeconfig.json
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\bin\Debug\net6.0\egitim.dll
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\bin\Debug\net6.0\egitim.pdb
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.AssemblyInfo.cs
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.dll
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\refint\egitim.dll
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.pdb
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\egitim.genruntimeconfig.cache
+C:\Users\pc\Desktop\Visual Studio Projects\Kurs\egitim\obj\Debug\net6.0\ref\egitim.dll

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="egitim.Emlak" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAwAAAQAAAAAAAAAACAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.Konut" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIIAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.KiralikEv" Collapsed="true">
+    <Position X="11.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.SatilikEv" Collapsed="true">
+    <Position X="13.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.SatilikVilla" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.KiralikVilla" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.Arsa" Collapsed="true">
+    <Position X="17" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.SatilikArsa" Collapsed="true">
+    <Position X="18.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.KiralikArsa" Collapsed="true">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.KiralikEmlakBilgisi" Collapsed="true">
+    <Position X="24.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAgAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.Adres" Collapsed="true">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEgAAAIIAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.Semt" Collapsed="true">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.Sehir" Collapsed="true">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.Musteri" Collapsed="true">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="egitim.IletisimBilgi" Collapsed="true">
+    <Position X="22.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Emlak.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
